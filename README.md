@@ -1,0 +1,1 @@
+I used this fork to learn alongside the "Introduction To 3D Game Programming With DirectX 12" book. There are some errors in the code by default, so this will also contain any fixes I find when executing the code for each chapter.
